@@ -10,5 +10,5 @@
 ## Project Repository
 | Role                                 | Repository Link                                       |
 | ------------------------------------ | ----------------------------------------------------- |
-| Front-End                            | [fe-web-bakti](https://github.com/)                   |
-| Back-End                             | [be-web-bakti](https://github.com/)                   |
+| Front-End                            | [fe-web-bakti](https://github.com/Bakti-Komdigi-Intern)                   |
+| Back-End                             | [be-web-bakti](https://github.com/Bakti-Komdigi-Intern)                   |
