@@ -8,7 +8,6 @@
 | Raihan Zahran Firdaus                | Sumber Daya dan Administrasi | Pengadaan dan Sistem Informasi | [![Raihan Zahran](https://github.com/Job-Finder-C624-PS104/.github/blob/main/profile/logo-linkedin.png)](https://www.linkedin.com/in/raihanzahran/) [![zzzahran](https://github.com/Job-Finder-C624-PS104/.github/blob/main/profile/logo-github.png)](https://github.com/zzzahran)  |
 
 ## Project Repository
-| Role                                 | Repository Link                                       |
-| ------------------------------------ | ----------------------------------------------------- |
-| Front-End                            | [fe-web-bakti](https://github.com/Bakti-Komdigi-Intern)                   |
-| Back-End                             | [be-web-bakti](https://github.com/Bakti-Komdigi-Intern)                   |
+| Repository Link                                        |
+| -----------------------------------------------------  |
+| [Bakti Website](https://github.com/Bakti-Komdigi-Intern/web-bakti)|
