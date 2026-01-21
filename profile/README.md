@@ -11,3 +11,5 @@
 | Repository Link                                        |
 | -----------------------------------------------------  |
 | [Bakti Website](https://github.com/Bakti-Komdigi-Intern/web-bakti)|
+| [Bakti Monitoring System](https://github.com/Bakti-Komdigi-Intern/security-monitoring-system)|
+| [Ticket Management System](https://github.com/Bakti-Komdigi-Intern/ticket-management-system)|
